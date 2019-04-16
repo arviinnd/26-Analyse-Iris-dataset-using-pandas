@@ -8,7 +8,7 @@ Subject: use case on pandas.
 Respected everyone,
 <br>
 <br>
-This is a use case on numpy.
+This is a use case on pandas.
 <br>
 <br>
 Thanks and regards, <br>
